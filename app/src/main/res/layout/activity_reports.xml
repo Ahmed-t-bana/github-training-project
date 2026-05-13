@@ -30,7 +30,7 @@
                 android:layout_height="wrap_content"
                 android:text="Total Income: 0.00"
                 android:textColor="@color/primary_text"
-                android:textSize="18sp"
+                android:textSize="20sp"
                 android:textStyle="bold" />
 
             <TextView
@@ -40,7 +40,7 @@
                 android:layout_marginTop="8dp"
                 android:text="Total Expense: 0.00"
                 android:textColor="@color/primary_text"
-                android:textSize="18sp"
+                android:textSize="20sp"
                 android:textStyle="bold" />
 
             <TextView
