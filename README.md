@@ -27,4 +27,4 @@ Whether you're a student, freelancer, or family manager, this app gives you full
 
 ## 🚀 Installation & Setup
 
-1. Clone the repository:
+1. Clone the repository: git@github.com:Ahmed-t-bana/github-training-project.git
