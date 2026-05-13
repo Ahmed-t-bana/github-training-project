@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_background">#F7F8FA</color>
+    <color name="surface_bg">#FFFFFF</color>
+    <color name="toolbar_bg">#111111</color>
+    <color name="primary_text">#111111</color>
+    <color name="secondary_text">#888888</color>
+    <color name="input_stroke">#B0B0B0</color>
+
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+</resources>
